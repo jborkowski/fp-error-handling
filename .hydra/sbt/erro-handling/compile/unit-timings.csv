@@ -1,2 +1,0 @@
-Worker ID, File, Total Time (ms), lateFile?, totalSpans, parser nodes, typer nodes, LoC, LoC/s
-0, src/main/scala/com/jobo/Main.scala, 4867, false, 891, 1552, 7928, 177, 36
