@@ -1,4 +1,4 @@
-name := "erro-handling"
+name := "error-handling"
 
 version := "0.1.0"
 
